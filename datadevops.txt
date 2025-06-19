@@ -1,2 +1,14 @@
 this is first line..
 this is second line ..
+
+
+
+git clone https://github.com/tomotade/jun18.git
+
+cd june18
+git status
+git add .
+git commit -m "initial file"
+git push
+
+git pull 
